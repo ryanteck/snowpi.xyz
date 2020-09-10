@@ -1,27 +1,21 @@
-cloud:
-  lightcolor: var(--paper-indigo-300)
-  maincolor: var(--paper-indigo-500)
-  secondarycolor: var(--paper-indigo-700)
-containers:
-  lightcolor: var(--paper-indigo-300)
-  maincolor: var(--paper-indigo-500)
-  secondarycolor: var(--paper-indigo-700)
-desktop:
-  lightcolor: var(--paper-indigo-300)
-  maincolor: var(--paper-indigo-500)
-  secondarycolor: var(--paper-indigo-700)
-iot:
-  lightcolor: var(--paper-indigo-300)
-  maincolor: var(--paper-indigo-500)
-  secondarycolor: var(--paper-indigo-700)
-packaging:
-  lightcolor: var(--paper-teal-300)
-  maincolor: var(--paper-teal-500)
-  secondarycolor: var(--paper-teal-700)
-server:
-  lightcolor: var(--paper-indigo-300)
-  maincolor: var(--paper-indigo-500)
-  secondarycolor: var(--paper-indigo-700)
+microbit:
+  lightcolor: "#444"
+  maincolor: "#444"
+  secondarycolor: "#444"
+raspberrypi:
+  lightcolor: "#444"
+  maincolor: "#444"
+  secondarycolor: "#444"
+arduino:
+  lightcolor: "#444"
+  maincolor: "#444"
+  secondarycolor: "#444"
+circuitpython:
+  lightcolor: "#444"
+  maincolor: "#444"
+  secondarycolor: "#444"
+
+
 unknown:
   lightcolor: "#444"
   maincolor: "#444"
